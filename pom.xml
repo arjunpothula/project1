@@ -5,7 +5,7 @@
 
 	<groupId>com.srk</groupId>
 	<artifactId>studentapi</artifactId>
-	<version>${VERSIONNO}-${VERSIONTYPE}</version>
+	<version>${BUILD_NUMBER}-${VERSIONTYPE}</version>
 	<packaging>war</packaging>
 
 	<name>studentapi</name>
